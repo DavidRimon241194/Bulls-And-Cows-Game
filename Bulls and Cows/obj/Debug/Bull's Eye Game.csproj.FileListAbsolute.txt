@@ -1,0 +1,12 @@
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\bin\Debug\BullsEyeGame.exe.config
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\bin\Debug\BullsEyeGame.exe
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\bin\Debug\BullsEyeGame.pdb
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\Bull's Eye Game.csproj.AssemblyReference.cache
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.FormGameFlow.resources
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.FormNumberOfChances.resources
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.FormPickAColor.resources
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.Properties.Resources.resources
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\Bull's Eye Game.csproj.GenerateResource.cache
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\Bull's Eye Game.csproj.CoreCompileInputs.cache
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.exe
+C:\Users\David Rimon\Downloads\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\A22 Ex05 DavidRimon 205387061 SaarSalhov 208713263\Bull's Eye Game\obj\Debug\BullsEyeGame.pdb
