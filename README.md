@@ -14,4 +14,4 @@ The result is always aligned to the left when the "black square" is always shown
 #### Controller (C) - Contains the interface between View and Model
 
 ## how it's really works:
-
+![Bulls and Cows example](https://user-images.githubusercontent.com/86151424/151951606-ada49a51-9a32-4c8e-b90a-a1cad08dd3e6.gif)
